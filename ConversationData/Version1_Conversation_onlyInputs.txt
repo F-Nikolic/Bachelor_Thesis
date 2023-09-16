@@ -1,0 +1,27 @@
+Java Sudoku Game.
+User
+How would I go about creating a sudokun game in java using Object orientated programming and having a working GUI
+
+User
+Can you give me the code for step 1
+
+User
+Can you make code for step 2
+
+User
+Can you give the code for step 3
+
+User
+can you give me the code for step 4
+
+User
+Can you give me the code for step 5
+
+User
+Can you combine all these classes into one and make the game fully working 
+
+User
+Continue completing the code from where you left off
+
+User
+Write the generateBoard method from sudokuboard since its currently missing 
