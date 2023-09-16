@@ -1,2 +1,4 @@
 # Bachelor_Thesis
-This repository serves as access to the conversation logs of ChatGPT, as well as the source codes for the two sudoku applications.
+This repository provides the ChatGPT conversation logs and data used during the paper, as well as the source code for the two sudoku applications.
+The conversations can be found under the "ConversationData" folder.
+The source code under the "SourceCode" folder with their respective versions.
